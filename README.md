@@ -6,4 +6,4 @@ Here is where i create things, learn stuffs and collaborate with my favourite pe
 -  👯 I’m looking to collaborate on mobile app projects. 
 -  📫 How to reach me: twitter.com/bisrax
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisrax &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisrax&theme=radical)
