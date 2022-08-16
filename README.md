@@ -1,6 +1,6 @@
 ### Hey!, Welcome to my 🌍 👋 🤗
 
-Here is where i create things, learn stuffs and collaborate with my favourite people (if you're one of'em 👍)    
+Here is where i create things, learn stuffs and collaborate with my ⭐ people.!   
 
 - 🔭 🇪🇹.
 -  👯 I’m looking to collaborate on mobile app projects. 
