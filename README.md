@@ -7,3 +7,5 @@ Here is where i create things, learn stuffs and collaborate with my ⭐ people.!
 -  📫 How to reach me: [Bisrat Twitter](https://twitter.com/bisrax)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisrax&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=bisrax&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
