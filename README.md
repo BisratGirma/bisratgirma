@@ -1,4 +1,4 @@
-### Hey!, Welcome to my world 👋 🤗
+### Hey!, Welcome to my 🌍 👋 🤗
 
 Here is where i create things, learn stuffs and collaborate with my favourite people (if you're one of'em 👍)    
 
