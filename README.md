@@ -3,8 +3,8 @@
 Here is where i create things, learn stuffs and collaborate with my ⭐🧑👩🧑🏾!   
 
 - 🔭 🇪🇹.
--  👯 I’m looking to collaborate on mobile app projects. 
--  📫 How to reach me: bisratgirmat@gmail.com or [Bisrat Twitter](https://twitter.com/bisrat_girma_)
+-  👯 I’m looking to collaborate on web app projects. 
+-  📫 How to reach me: bisratx@gmail.com or [Bisrat Twitter](https://x.com/bisrat_girma_)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisratgirma&theme=radical) -->
 
