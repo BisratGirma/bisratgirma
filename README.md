@@ -1,10 +1,11 @@
 ### Hey!, Welcome to my 🌍. 🤗
 
-Here is where i create things, learn stuffs and collaborate with my ⭐🧑👩🧑🏾!   
+Here is where I create things, learn stuff, and collaborate with my ⭐🧑👩🧑🏾!   
 
-- 🔭 🇪🇹.
--  Building [astemary.com](https://astemary.com)
--  📫 How to reach me: bisratx@gmail.com or [Bisrat Twitter](https://x.com/bisrat_girma_)
+- 🔭 I'm a fullstack developer from Ethiopia 🇪🇹.
+-    I've an exprience in ethiopian startup ecosystem.
+-    Experimenting with [astemary.com](https://astemary.com)
+- 📫 How to reach me: bisratx@gmail.com or [Bisrat Twitter](https://x.com/bisrat_girma_)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisratgirma&theme=radical) -->
 
