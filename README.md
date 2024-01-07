@@ -7,7 +7,7 @@ Here is where I create things, learn stuff, and collaborate with my ⭐🧑👩�
 -    Experimenting with [astemary.com](https://astemary.com)
 - 📫 How to reach me: bisratx@gmail.com or [Bisrat Twitter](https://x.com/bisrat_girma_)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisratgirma&theme=radical) 
+<!--  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisratgirma&theme=radical) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bisratgirma&theme=highcontrast)](https://git.io/streak-stats) -->
 
