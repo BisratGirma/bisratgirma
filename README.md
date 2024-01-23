@@ -2,7 +2,7 @@
 
 Here is where I create things, learn stuff, and collaborate with my ⭐🧑👩🧑🏾!   
 
-- 🔭 I'm a fullstack developer from Ethiopia 🇪🇹.
+- 🔭 I'm a web 🕸️ developer from Ethiopia 🇪🇹.
 -    I've an exprience in ethiopian startup ecosystem.
 -    Experimenting with [astemary.com](https://astemary.com)
 - 📫 How to reach me: bisratx@gmail.com or [Bisrat Twitter](https://x.com/bisrat_girma_)
