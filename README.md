@@ -2,8 +2,8 @@
 
 Here is where I create things, learn stuff, and collaborate with my ⭐🧑👩🧑🏾!   
 
-- 🔭 I'm a web 🕸️ developer from Ethiopia 🇪🇹.
--    I've an exprience in ethiopian startup ecosystem.
+- 🔭 I'm a senior web 🕸️ developer.
+-    I've got experience working in a startup ecosystem.
 -    Experimenting with [astemary.com](https://astemary.com)
 - 📫 How to reach me: bisratx@gmail.com or [Bisrat Twitter](https://x.com/bisrat_girma_)
 
