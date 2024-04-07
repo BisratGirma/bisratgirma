@@ -12,6 +12,3 @@ Here is where I create things, learn stuff, and collaborate with my ⭐🧑👩�
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bisratgirma&theme=highcontrast)](https://git.io/streak-stats) -->
 
 [![](https://visitcount.itsvg.in/api?id=bisratgirma&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-
-<div class="contra-hire-me-button" data-analyticsUserId="03714d54-51d4-47b0-ad24-735df9c4af03" data-theme="light" data-username="bisrat_girma"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
