@@ -5,7 +5,7 @@ Here is where I create things, learn stuff, and collaborate with my ⭐🧑👩�
 - 🔭 I'm a senior software engineer.
 -    I've got experience working in a startup ecosystem.
 -    Experimenting with [astemari.net](https://astemari.net)
-- 📫 How to reach me: bisratx@gmail.com or [Bisrat Twitter](https://x.com/bisrat_girma_)
+- 📫 How to reach me: bisratx@gmail.com or [Bisrat Twitter](https://x.com/bisrat_takele)
 
 <!--  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisratgirma&theme=radical) -->
 
