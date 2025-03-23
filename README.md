@@ -4,7 +4,7 @@ Here is where I create things, learn stuff, and collaborate with my ⭐🧑👩�
 
 - 🔭 I'm a senior software engineer.
 -    I've got experience working in a startup ecosystem.
-- 📫 How to reach me: [Bisrat X(Twitter)](https://x.com/bisrat_takele)
+- 📫 How to reach me: [Bisrat (Twitter)](https://x.com/bisrat_takele)
 
 <!--  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisratgirma&theme=radical) -->
 
